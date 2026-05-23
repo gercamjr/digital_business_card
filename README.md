@@ -1,5 +1,13 @@
-# React based Digital Business Card
-I created a simple React component based digital business card as part of the React course on Scrimba.
+# Digital Business Card
 
-## Feel free to contact me for your web development needs.
+Modern React-based digital business card for Gerardo Camorlinga Jr.
 
+**Software Engineer & VP of Engineering at GuardMetrics**
+
+Built with React and deployed on GitHub Pages.
+
+## Links
+- [Live Site](https://gercamjr.github.io/digital_business_card/)
+- [Portfolio](https://www.geracomdev.com)
+- [GitHub](https://github.com/gercamjr)
+- [LinkedIn](https://www.linkedin.com/in/gera-camo-jr/)
