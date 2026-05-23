@@ -9,10 +9,18 @@ body {
 .App {
   max-width: 420px;
   margin: 0 auto;
+}
+
+.Card {
   background: rgba(15, 23, 42, 0.95);
   border-radius: 20px;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.Info {
+  text-align: center;
+  padding: 0 20px 20px;
 }
 
 .info__image {
@@ -34,6 +42,12 @@ h1, h2, h3 {
   border-top: 1px solid #334155;
 }
 
+.call_to_action_btns {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -42,6 +56,16 @@ h1, h2, h3 {
   padding: 14px 24px;
   transition: all 0.3s ease;
   font-weight: 600;
+}
+
+.btn_email {
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+.btn_linkedin {
+  background: #2563eb;
+  color: #f8fafc;
 }
 
 .btn:hover {
